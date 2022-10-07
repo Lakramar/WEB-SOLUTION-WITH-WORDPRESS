@@ -1,4 +1,7 @@
 # WEB-SOLUTION-WITH-WORDPRESS
+## What I learned in the project:
+######   Learned how to configure Linux storage susbystem and have also deployed a full-scale Web Solution using WordPress CMS and MySQL RDBMS!
+______________________________________________________________________________________________________________________________________________________________________
 ## Prepare storage infrastructure on two Linux servers and implement a basic web solution using WordPress. WordPress is a free and open-source content management system written in PHP and paired with MySQL or MariaDB as its backend Relational Database Management System (RDBMS).
 
 **This project consists of two parts:**

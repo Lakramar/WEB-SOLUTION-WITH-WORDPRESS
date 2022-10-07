@@ -53,7 +53,6 @@ sudo gdisk /dev/xvdf
 ```
 ##### you will see this: 
 
-``
 GPT fdisk (gdisk) version 1.0.3
 
 Partition table scan:
@@ -86,8 +85,6 @@ Do you want to proceed? (Y/N): yes
 OK; writing new GUID partition table (GPT) to /dev/xvdf.
 The operation has completed successfully.
 Now,  your changes has been configured successfuly, exit out of the gdisk console and do the same for the remaining disks.
-
-```
 
 ###### Use lsblk utility to view the newly configured partition on each of the 3 disks.
 
